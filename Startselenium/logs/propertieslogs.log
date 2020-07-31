@@ -1,0 +1,4 @@
+[INFO ] 2020-07-19 23:04:44.046 [main] Demo1 - scni
+[ERROR] 2020-07-19 23:04:44.051 [main] Demo1 - This is an error message
+[WARN ] 2020-07-19 23:04:44.051 [main] Demo1 - This is an warning message
+[FATAL] 2020-07-19 23:04:44.051 [main] Demo1 - This is an fatal message
